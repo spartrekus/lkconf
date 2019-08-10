@@ -1,0 +1,2 @@
+# lkconf
+NetBSD lkconf
